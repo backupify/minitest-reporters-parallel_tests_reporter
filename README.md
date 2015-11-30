@@ -8,7 +8,7 @@ Designed to integrate with [parallel_tests-extensions](https://github.com/backup
 
 ```rb
 gem 'minitest-reporters-parallel_tests_reporter'
-gem 'parallel_tests-extensions'
+gem 'parallel_tests-extensions' # not necessary, but recommended
 ```
 
 ## Usage
