@@ -1,6 +1,6 @@
 # Minitest::Reporters::ParallelTestsReporter
 
-a [minitest-reporter](https://github.com/kern/minitest-reporters) extension 
+a [minitest-reporters](https://github.com/kern/minitest-reporters) extension 
 for integrating with [parallel_tests](https://github.com/grosser/parallel_tests).
 Designed to integrate with [parallel_tests-extensions](https://github.com/backupify/parallel_tests-extensions)
 

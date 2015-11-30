@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Josh Bodah"]
   spec.email         = ["jb3689@yahoo.com"]
 
-  spec.summary       = %q{a minitest-reporter extension for integrating with parallel_tests}
-  spec.description   = %q{a minitest-reporter extension for integrating with parallel_tests. designed to integrate with parallel_tests-extensions}
+  spec.summary       = %q{a minitest-reporters extension for integrating with parallel_tests}
+  spec.description   = %q{a minitest-reporters extension for integrating with parallel_tests. designed to integrate with parallel_tests-extensions}
   spec.homepage      = "https://github.com/backupify/minitest-reporters-parallel_tests_reporter"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
