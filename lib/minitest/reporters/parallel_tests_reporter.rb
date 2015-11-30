@@ -3,7 +3,7 @@ require 'minitest/reporters'
 module Minitest
   module Reporters
     class ParallelTestsReporter < BaseReporter
-      VERSION = '0.0.1-pre'
+      VERSION = '0.0.1'
 
       # Override if needed
       def self.compiled_report_filepath
